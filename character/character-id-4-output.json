@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "4",
+      "name": "Jhon Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Male"
+    }
+  }
+}
